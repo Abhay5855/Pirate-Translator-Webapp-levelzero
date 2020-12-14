@@ -4,6 +4,7 @@ var btnTranslate = document.querySelector("#btn-translate");
 
 var outputDiv = document.querySelector("#output");
 
+var serverURL = "https://api.funtranslations.com/translate/pirate.json"
 
 
 
