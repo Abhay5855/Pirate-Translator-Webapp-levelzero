@@ -36,3 +36,4 @@ function clickHandler() {
 
           
          })
+         .catch(errorHandler)
