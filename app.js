@@ -12,6 +12,11 @@ function getTranslationURL(input){
 
 }
 
+function errorHandler(error){
+    console.log("error occured", error)
+    alert("something wrong in server")
+}
+
 
 
 function clickHandler() {
