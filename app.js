@@ -6,6 +6,12 @@ var outputDiv = document.querySelector("#output");
 
 var serverURL = "https://api.funtranslations.com/translate/pirate.json"
 
+function getTranslationURL(input){
+
+    return serverURL + "?" + "text= " + input
+
+}
+
 
 
 function clickHandler() {
