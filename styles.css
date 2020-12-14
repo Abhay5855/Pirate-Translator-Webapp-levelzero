@@ -35,3 +35,14 @@ textarea {
 
 
 }
+
+.butto {
+    
+    margin: 0;
+    position: relative;
+    top: 50%;
+    left: 41%;
+    font-size: 25px;
+    border-radius: 8px;
+    border: 2px solid #3B82F6;
+}
