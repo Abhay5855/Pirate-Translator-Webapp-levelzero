@@ -62,3 +62,43 @@ textarea {
     font-family: 'Langar', cursive;
 
 }
+
+/* .abt {
+    
+    display: block;
+    text-align: center;
+    width:80%;
+    margin: 2rem;
+    height: 5vh;
+    padding: 2rem;  
+    font-size: 20px;
+    color:blue;
+    background-color: #E5E7EB;
+    border: 2px solid #3B82F6;
+    font-family: 'Langar', cursive;
+
+} */
+
+textarea .about {
+    display: block;
+    /* text-align: center; */
+    width:120%;
+    margin: 5rem;
+    height: 9vh;
+    padding: 4rem;  
+    font-size: 20px;
+    color:blue;
+    background-color: #E5E7EB;
+    border: 2px solid #3B82F6;
+    font-family: 'Langar', cursive;
+
+}
+
+.img7 {
+    /* width: 280px; */
+    margin: auto;
+    border-radius: 0%;
+    display: block;
+    width:180px;
+    height:300px
+}
