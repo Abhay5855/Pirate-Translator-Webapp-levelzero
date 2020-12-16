@@ -10,10 +10,6 @@
     text-align: center;
 }
 
-body .bd {
-    background-image: url("https://images8.alphacoders.com/636/thumb-1920-636768.jpg")
-    
-}
 
 .spa {
     color:
@@ -24,29 +20,34 @@ body .bd {
 textarea {
     display: block;
     text-align: center;
-    width:80%;
+    width:30%;
     margin: 2rem;
-    height: 5vh;
-    padding: 2rem;  
+    height: 8vh;
+    padding: 3rem;  
     font-size: 20px;
     color:blue;
     background-color: #E5E7EB;
     border: 2px solid #3B82F6;
     font-family: 'Langar', cursive;
     padding-right: 8px;
+    margin-left: 10%;
 
 
 }
 
 .butto {
     
-    margin: 0;
-    position: relative;
+    /* margin: 0; */
+    width: 10%;
+    margin-left: 20%;
+    margin-right: 30%
+    /* position: relative; */
     top: 50%;
-    left: 41%;
+    /* left: 90%; */
     font-size: 25px;
     border-radius: 8px;
     border: 2px solid #3B82F6;
+    /* right: 42px; */
     
 }
 
@@ -54,15 +55,17 @@ textarea {
     
     display: block;
     text-align: center;
-    width:80%;
-    margin: 2rem;
-    height: 5vh;
+    width:30%;
+    margin: 3rem;
+    height: 8vh;
     padding: 2rem;  
     font-size: 20px;
     color:blue;
     background-color: #E5E7EB;
     border: 2px solid #3B82F6;
     font-family: 'Langar', cursive;
+    margin-left: 10%;
+    
 
 
 }
@@ -83,28 +86,19 @@ textarea {
 
 } */
 
-textarea .about {
-    display: block;
-    /* text-align: center; */
-    width:200%;
-    margin: 5rem;
-    height: 9vh;
-    padding: 4rem;  
-    font-size: 20px;
-    color:blue;
-    background-color: #E5E7EB;
-    border: 2px solid #3B82F6;
-    font-family: 'Langar', cursive;
-    left: 50%;
 
+
+
+body{
+    /* background-image: url("https://wallpapercave.com/wp/wp1969975.jpg"); */
+    background-image: url("https://cache.desktopnexus.com/thumbseg/1684/1684921-bigthumbnail.jpg");
+    background-position: center;
+    background-size:cover;
+    height:640px;
+    /* border: 10px dashed black; */
+    padding: 25px;
+    /* background: url(paper.gif); */
+    
+    /* background-origin: content-box; */
+    background-repeat: no-repeat, repeat;
 }
-
-.img7 {
-    /* width: 280px; */
-    margin: auto;
-    border-radius: 0%;
-    display: block;
-    width:180px;
-    height:300px
-}
-
