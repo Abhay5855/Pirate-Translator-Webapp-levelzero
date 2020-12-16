@@ -8,12 +8,15 @@
 .head {
     font-family: 'Langar', cursive;
     text-align: center;
+    color: #ff0000;
+    margin-left: 6%;
+    font-size: 40px;
 }
 
 
 .spa {
     color:
-    #3B82F6;
+    #ff0000;
     
 }
 
