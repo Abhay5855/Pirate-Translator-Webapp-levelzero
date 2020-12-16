@@ -10,8 +10,9 @@
     text-align: center;
 }
 
-body {
+body .bd {
     background-image: url("https://images8.alphacoders.com/636/thumb-1920-636768.jpg")
+    
 }
 
 .spa {
