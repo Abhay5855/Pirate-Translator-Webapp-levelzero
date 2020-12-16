@@ -11,7 +11,7 @@
 }
 
 body {
-    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/checkerboard-cross.png");
+    background-image: url("https://images8.alphacoders.com/636/thumb-1920-636768.jpg")
 }
 
 .spa {
@@ -32,6 +32,7 @@ textarea {
     background-color: #E5E7EB;
     border: 2px solid #3B82F6;
     font-family: 'Langar', cursive;
+    padding-right: 8px;
 
 
 }
@@ -45,6 +46,7 @@ textarea {
     font-size: 25px;
     border-radius: 8px;
     border: 2px solid #3B82F6;
+    
 }
 
 #output {
@@ -60,6 +62,7 @@ textarea {
     background-color: #E5E7EB;
     border: 2px solid #3B82F6;
     font-family: 'Langar', cursive;
+
 
 }
 
@@ -82,7 +85,7 @@ textarea {
 textarea .about {
     display: block;
     /* text-align: center; */
-    width:120%;
+    width:200%;
     margin: 5rem;
     height: 9vh;
     padding: 4rem;  
@@ -91,6 +94,7 @@ textarea .about {
     background-color: #E5E7EB;
     border: 2px solid #3B82F6;
     font-family: 'Langar', cursive;
+    left: 50%;
 
 }
 
@@ -102,3 +106,4 @@ textarea .about {
     width:180px;
     height:300px
 }
+
